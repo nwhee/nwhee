@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi! 👋
+
+I'm Jonathan. I'm a second-year CS + Bio student at Northeastern University. 
+
+I have a deep interest in the intersection of CS and Bio and their applications. I'm excited to work with other passionate individuals to tackle problems and better the world. I also love learning, and I am enthusiastic to share knowledge that has been graciously passed to me.
+
+I also love sports, creative writing, and having a good conversation over food.
+
+Feel free to reach out at ding.jo@northeastern.edu.
 
 <!--
 **nwhee/nwhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
